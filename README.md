@@ -25,7 +25,7 @@ Sou um Desenvolvedor Full Stack e Designer de **Tomé-Açu, Pará**. Combino con
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalissomvinicius&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalissomvinicius&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissomvinicius&layout=compact&theme=tokyonight"/>
 </div>
 
