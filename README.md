@@ -22,11 +22,10 @@ Sou um Desenvolvedor Full Stack e Designer de **Tomé-Açu, Pará**. Combino con
 
 ---
 
-### ⚡ Atividade Recente
+### ⚡ Sobre Mim
 
-<!-- Você pode atualizar esta seção manualmente -->
-*   🔭 Atualmente trabalhando no **Sistema de Disponibilidade (Valle Prime)**
-*   🌱 Estudando sobre **Padrões Avançados de React & Performance**
+*   🚀 Focado em **transformar ideias complexas em código eficiente**
+*   🌱 Sempre estudando **novas tecnologias e melhores práticas**
 *   💬 Pergunte-me sobre **Automação com Python & UI Design**
 
 ---
