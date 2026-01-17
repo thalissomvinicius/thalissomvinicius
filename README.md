@@ -22,6 +22,12 @@ Sou um Desenvolvedor Full Stack e Designer de **Tomé-Açu, Pará**. Combino con
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thalissomvinicius/thalissomvinicius/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
 ### ⚡ Sobre Mim
 
 *   🚀 Focado em **transformar ideias complexas em código eficiente**
