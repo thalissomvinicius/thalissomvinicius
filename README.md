@@ -25,7 +25,7 @@ Sou um Desenvolvedor Full Stack e Designer de **Tomé-Açu, Pará**. Combino con
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalissomvinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalissomvinicius&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissomvinicius&layout=compact&theme=tokyonight"/>
 </div>
 
@@ -41,10 +41,13 @@ Sou um Desenvolvedor Full Stack e Designer de **Tomé-Açu, Pará**. Combino con
 ---
 
 <div align="center">
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:vinicius.devcode.br@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://linkedin.com/in/thalissomvinicius">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5591991697664">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
