@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there, I'm Vinicius! 👋
+🚀 Dev & Designer | Python & Web Specialist
+I'm a Full Stack Developer and Designer based in Tomé-Açu, Brazil. I combine technical expertise in Python and Web Development with a keen eye for UI/UX Design to build complete, efficient, and beautiful digital solutions.
 
-<!--
-**thalissomvinicius/thalissomvinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages & Core: Python JavaScript HTML5 CSS3
 
-Here are some ideas to get you started:
+Frameworks & Tools: React Vite Figma Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+ 
+⚡ Recent Activity
+🔭 Currently working on Sistema de Disponibilidade (Valle Prime)
+🌱 Learning more about Advanced React Patterns & Performance
+💬 Ask me about Python Automation & UI Design
+Gmail LinkedIn
