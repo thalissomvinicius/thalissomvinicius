@@ -2,7 +2,7 @@
 
 ### 🚀 Dev & Designer | Especialista em Python & Web
 
-Sou um Desenvolvedor Full Stack e Designer de **Tomé-Açu, Pará**. Combino conhecimentos técnicos em Python e Desenvolvimento Web com um olhar apurado para UI/UX Design, criando soluções digitais completas, eficientes e bonitas.
+Sou um Desenvolvedor e Designer de **Tomé-Açu, Pará**. Combino conhecimentos técnicos em Python e Desenvolvimento Web com um olhar apurado para UI/UX Design, criando soluções digitais completas, eficientes e bonitas.
 
 ---
 
